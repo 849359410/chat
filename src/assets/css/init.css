@@ -1,0 +1,27 @@
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
+body, html { background: #fafafa!important;}
+.theme--light.application {background-color: #ddd!important;}
+h1, h2, h3, h4, h5, h6{ font-size:100%; }
+address, cite, dfn, em, var { font-style:normal; }
+code, kbd, pre, samp { font-family:couriernew, courier, monospace; }
+p { margin-bottom: 0; }
+small{font-size: 12px !important; }
+ul, ol { list-style:none!important; }
+a { text-decoration:none!important; color: #2A2A2A }
+a:hover { text-decoration:underline; }
+sup { vertical-align:text-top; }
+sub{ vertical-align:text-bottom; }
+legend { color:#000; }
+fieldset, img { border:0; }
+button, input, select, textarea { font-size:100%; }
+table { border-collapse:collapse; border-spacing:0; }
+/* 清除浮动 */
+.outer:after {
+  clear:both;
+  content:'.';
+  display:block;
+  width: 0;
+  height: 0;
+  zoom:1;
+  visibility:hidden;
+}

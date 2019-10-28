@@ -1,0 +1,138 @@
+@font-face {
+    font-family: 'clubfont';
+    src:  url('../fonts/clubfont.eot?902uv4');
+    src:  url('../fonts/clubfont.eot?902uv4#iefix') format('embedded-opentype'),
+    url('../fonts/clubfont.ttf?902uv4') format('truetype'),
+    url('../fonts/clubfont.woff?902uv4') format('woff'),
+    url('../fonts/clubfont.svg?902uv4#clubfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="fa-ic-"], [class*=" fa-ic-"] {
+    font-family: 'clubfont' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-ic-WeChat:before {
+    content: "\e924";
+}
+.fa-ic-WeChatBg:before {
+    content: "\e926";
+}
+.fa-ic-Mail:before {
+    content: "\e900";
+}
+.fa-ic-MailBg:before {
+    content: "\e901";
+}
+.fa-ic-Find:before {
+    content: "\e929";
+}
+.fa-ic-FindBg:before {
+    content: "\e92a";
+}
+.fa-ic-My:before {
+    content: "\e92b";
+}
+.fa-ic-MyBg:before {
+    content: "\e92c";
+}
+.fa-ic-AddFriend:before {
+    content: "\e92d";
+}
+.fa-ic-Circle:before {
+    content: "\e92e";
+}
+.fa-ic-Sweep:before {
+    content: "\e92f";
+}
+.fa-ic-Shake:before {
+    content: "\e930";
+}
+.fa-ic-Have:before {
+    content: "\e931";
+}
+.fa-ic-Search:before {
+    content: "\e932";
+}
+.fa-ic-Nearby:before {
+    content: "\e933";
+}
+.fa-ic-Shopping:before {
+    content: "\e934";
+}
+.fa-ic-Program:before {
+    content: "\e935";
+}
+.fa-ic-Label:before {
+    content: "\e936";
+}
+.fa-ic-Payment:before {
+    content: "\e937";
+}
+.fa-ic-MyCollection:before {
+    content: "\e938";
+}
+.fa-ic-TmPhoto:before {
+    content: "\e939";
+}
+.fa-ic-CouponOne:before {
+    content: "\e93a";
+}
+.fa-ic-Expression:before {
+    content: "\e93b";
+}
+.fa-ic-Setup:before {
+    content: "\e93c";
+}
+.fa-ic-Voice:before {
+    content: "\e93d";
+}
+.fa-ic-ExpressionOne:before {
+    content: "\e93e";
+}
+.fa-ic-AddTo:before {
+    content: "\e93f";
+}
+.fa-ic-Photo:before {
+    content: "\e940";
+}
+.fa-ic-Camera:before {
+    content: "\e941";
+}
+.fa-ic-VisualPhone:before {
+    content: "\e942";
+}
+.fa-ic-Position:before {
+    content: "\e943";
+}
+.fa-ic-Redenvelopes:before {
+    content: "\e944";
+}
+.fa-ic-Microphone:before {
+    content: "\e945";
+}
+.fa-ic-Collection:before {
+    content: "\e946";
+}
+.fa-ic-Business:before {
+    content: "\e947";
+}
+.fa-ic-File:before {
+    content: "\e948";
+}
+.fa-ic-Coupon:before {
+    content: "\e949";
+}
+.fa-ic-arrow-left2:before {
+    content: "\ea40";
+}
